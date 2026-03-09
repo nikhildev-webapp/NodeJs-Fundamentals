@@ -1,2 +1,9 @@
-console.log('Node.js setup');
-console.log('Hello world from Node.js')
+//creating server without express.js
+const http = require('http');
+const server = http.createServer((req, res) => {
+    res.write('Hello world');
+    res.end();
+});
+server.listen(3000, () => {
+    console.log('Server running on port 3000')
+})
