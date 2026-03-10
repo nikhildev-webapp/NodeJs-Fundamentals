@@ -1,0 +1,30 @@
+#Node.js:
+.Node.js is open source, cross-platform javascript runtime environment built on chrome,s V8 engine.
+.It alllows developer to exexcute Javascript code on the server side, enabling the creation of scalable network application with single programming language acroos the entire stack
+
+#Core Architectural Concepts
+.Single-Threaded Event Loops
+.Non-Blocking I/O
+.Asynchronous programming
+.V8 engine
+
+#Essential Building Blocks
+.Modules:reusable block of code used to organize functionality
+.Core Modules:Built-in libraries ike https,fs,os, and path
+.local.custom Modules
+.Third party Modules
+
+.NPM
+.REPL
+.Global & Process objects
+
+#Common use cases
+.Real time application
+.Restful Apis
+.Microservices
+.CLI tools
+
+Learn Backend Development
+Learn Backend Development
+Learn Backend Development
+Learn Backend Development
