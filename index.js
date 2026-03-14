@@ -1,7 +1,7 @@
 //creating server without express.js
 const http = require('http');
 const server = http.createServer((req, res) => {
-    res.write('Hello world');
+    res.write('Hello');
     res.end();
 });
 server.listen(3000, () => {
