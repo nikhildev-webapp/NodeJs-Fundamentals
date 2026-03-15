@@ -1,3 +1,6 @@
-import { sub } from './Math.js';
+import { add, sub } from './Math.js';
 console.log('Subtract Module From Math.js File')
-console.log('Two Number Subtraction:',sub(4000,44))
+console.log('Two Number Subtraction:', sub(4000, 44))
+console.log('Add two number using the Add module from Math.js file');
+console.log(add(3, 4))
+console.log('sucsse')
