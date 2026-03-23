@@ -5,3 +5,5 @@ export const add = (a, b) => a + b;
 export const sub = (a, b) => a - b;
 export const multply = (a, b) => a * b;
 export const divide = (a, b) => a / b;
+
+//create a square,cube module and used it app.js
